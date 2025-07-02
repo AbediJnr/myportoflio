@@ -19,7 +19,7 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50,0.5)), url("/public/imgs/a105f6b9-b329-463c-bb41-c82085625b57.png");
+    background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50,0.5)), url("/imgs/a105f6b9-b329-463c-bb41-c82085625b57.png");
     background-size:cover;
     background-position:center;
     background-attachment:fixed;
@@ -242,13 +242,13 @@ section {
 }
 
 #bisa{
-    background:url("/public/imgs/bisa.png");
+    background:url("/imgs/bisa.png");
     background-size:cover;
     background-position:center;
 }
 
 #mimi{
-    background:url("/public/imgs/mimi.jpg");
+    background:url("/imgs/mimi.jpg");
     background-size:cover;
     background-position:center;
 }
@@ -264,13 +264,13 @@ section {
 }
 
 #uiuxes{
-    background:url("/public/imgs/eslogo.png");
+    background:url("/imgs/eslogo.png");
     background-size:cover;
     background-position:center;
 }
 
 #uiuxkz{
-    background:url("/public/imgs/kz.PNG");
+    background:url("/imgs/kz.PNG");
     background-size:cover;
     background-position:center;
 }
@@ -286,13 +286,13 @@ section {
 }
 
 #webes{
-    background:url("/public/imgs/eshome.png");
+    background:url("/imgs/eshome.png");
     background-size:cover;
     background-position:center;
 }
 
 #webcwr{
-    background:url("/public/imgs/cwr.png");
+    background:url("/imgs/cwr.png");
     background-size:contain;
     background-position:center;
     background-repeat: no-repeat;
